@@ -11,3 +11,5 @@ zip_file = input('Digite o caminho do arquivo zip: ')
 extract_directory = 'C:\\Users\\ModalGR\\Desktop'
 
 extract_zip(zip_file, extract_directory)
+
+exit()
